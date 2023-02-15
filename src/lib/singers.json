@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "63ecd575675e240d909ed4d0"
+  },
+  "name": "Hippo",
+  "place": "",
+  "image": "Hippo.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "2",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd673675e240d909ed4d1"
+  },
+  "name": "Tovenaar",
+  "place": "",
+  "image": "Tovenaar.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "2",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd682675e240d909ed4d2"
+  },
+  "name": "Raaf",
+  "place": "",
+  "image": "Raaf.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "1",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd6bf675e240d909ed4d3"
+  },
+  "name": "Minotaurus",
+  "place": "",
+  "image": "Minotaurus.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "2",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd6ed675e240d909ed4d4"
+  },
+  "name": "Foxy lady",
+  "place": "",
+  "image": "Foxy-lady.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "2",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd703675e240d909ed4d5"
+  },
+  "name": "Leeuw",
+  "place": "",
+  "image": "Leeuw.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "1",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd73a675e240d909ed4d6"
+  },
+  "name": "Kosmos",
+  "place": "",
+  "image": "Kosmos.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "2",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd74e675e240d909ed4d7"
+  },
+  "name": "Soapstar",
+  "place": "",
+  "image": "Soapstar.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "2",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd771675e240d909ed4d8"
+  },
+  "name": "Groot licht",
+  "place": "",
+  "image": "Groot-licht.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "1",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd7d6675e240d909ed4d9"
+  },
+  "name": "Champignon",
+  "place": "",
+  "image": "Champignon.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "1",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd7eb675e240d909ed4da"
+  },
+  "name": "Mummy",
+  "place": "",
+  "image": "Mummy.jpeg",
+  "episodeCount": "",
+  "startedEpisode": "1",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd80b675e240d909ed4db"
+  },
+  "name": "Vlinder",
+  "place": "",
+  "image": "Vlinder.jpg",
+  "episodeCount": "",
+  "startedEpisode": "2",
+  "participant": ""
+},{
+  "_id": {
+    "$oid": "63ecd913675e240d909ed4dc"
+  },
+  "name": "Skiwi",
+  "place": "14",
+  "image": "Skiwi.jpeg",
+  "episodeCount": "1",
+  "startedEpisode": "1",
+  "participant": "Herman Verbruggen"
+},{
+  "_id": {
+    "$oid": "63ecd957675e240d909ed4dd"
+  },
+  "name": "Kolonel mops",
+  "place": "13",
+  "image": "Kolonel-mops.jpeg",
+  "episodeCount": "1",
+  "startedEpisode": "2",
+  "participant": "Marc Coucke"
+}]
